@@ -4,7 +4,7 @@ This is a web-based recreation of the classic Simon memory game. Test your memor
 
 ## Live Demo
 
-Play the game online: [https://anurag2118.github.io/Drum-Kit/]
+Play the game online: https://anurag2118.github.io/Drum-Kit/
 ## Gameplay Demo
 
 See how to play and challenge your memory:
